@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d2caee51b0074ee49877b4a25bd29da7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ARC_HIZA_L
+    100002: ARC_HIZA_R
+    100004: ARC_KAKA_L
+    100006: ARC_KAKA_R
+    100008: ARC_KAO
+    100010: ARC_KATA_L
+    100012: ARC_KATA_R
+    100014: ARC_KOSI
+    100016: ARC_KUBI
+    100018: ARC_MOMO_L
+    100020: ARC_MOMO_R
+    100022: ARC_SEBO_B
+    100024: ARC_SEBO_M
+    100026: ARC_SEBO_T
+    100028: ARC_TE_L
+    100030: ARC_TE_R
+    100032: ARC_TUMA_L
+    100034: ARC_TUMA_R
+    100036: ARC_UDE_L
+    100038: ARC_UDE_R
+    100040: j_hiza_l
+    100042: j_hiza_r
+    100044: j_kaka_l
+    100046: j_kaka_r
+    100048: j_kao
+    100050: j_kata_l
+    100052: j_kata_r
+    100054: j_kosi
+    100056: j_kubi
+    100058: j_mata_l
+    100060: j_mata_r
+    100062: j_momo_l
+    100064: j_momo_r
+    100066: j_mune
+    100068: j_sako_l
+    100070: j_sako_r
+    100072: j_sebo_b
+    100074: j_sebo_m
+    100076: j_sebo_t
+    100078: j_te_l
+    100080: j_te_r
+    100082: j_tuma_l
+    100084: j_tuma_r
+    100086: j_ude_l
+    100088: j_ude_r
+    100090: //RootNode
+    400000: ARC_HIZA_L
+    400002: ARC_HIZA_R
+    400004: ARC_KAKA_L
+    400006: ARC_KAKA_R
+    400008: ARC_KAO
+    400010: ARC_KATA_L
+    400012: ARC_KATA_R
+    400014: ARC_KOSI
+    400016: ARC_KUBI
+    400018: ARC_MOMO_L
+    400020: ARC_MOMO_R
+    400022: ARC_SEBO_B
+    400024: ARC_SEBO_M
+    400026: ARC_SEBO_T
+    400028: ARC_TE_L
+    400030: ARC_TE_R
+    400032: ARC_TUMA_L
+    400034: ARC_TUMA_R
+    400036: ARC_UDE_L
+    400038: ARC_UDE_R
+    400040: j_hiza_l
+    400042: j_hiza_r
+    400044: j_kaka_l
+    400046: j_kaka_r
+    400048: j_kao
+    400050: j_kata_l
+    400052: j_kata_r
+    400054: j_kosi
+    400056: j_kubi
+    400058: j_mata_l
+    400060: j_mata_r
+    400062: j_momo_l
+    400064: j_momo_r
+    400066: j_mune
+    400068: j_sako_l
+    400070: j_sako_r
+    400072: j_sebo_b
+    400074: j_sebo_m
+    400076: j_sebo_t
+    400078: j_te_l
+    400080: j_te_r
+    400082: j_tuma_l
+    400084: j_tuma_r
+    400086: j_ude_l
+    400088: j_ude_r
+    400090: //RootNode
+    2300000: ARC_HIZA_L
+    2300002: ARC_HIZA_R
+    2300004: ARC_KAKA_L
+    2300006: ARC_KAKA_R
+    2300008: ARC_KAO
+    2300010: ARC_KATA_L
+    2300012: ARC_KATA_R
+    2300014: ARC_KOSI
+    2300016: ARC_KUBI
+    2300018: ARC_MOMO_L
+    2300020: ARC_MOMO_R
+    2300022: ARC_SEBO_B
+    2300024: ARC_SEBO_M
+    2300026: ARC_SEBO_T
+    2300028: ARC_TE_L
+    2300030: ARC_TE_R
+    2300032: ARC_TUMA_L
+    2300034: ARC_TUMA_R
+    2300036: ARC_UDE_L
+    2300038: ARC_UDE_R
+    3300000: ARC_HIZA_L
+    3300002: ARC_HIZA_R
+    3300004: ARC_KAKA_L
+    3300006: ARC_KAKA_R
+    3300008: ARC_KAO
+    3300010: ARC_KATA_L
+    3300012: ARC_KATA_R
+    3300014: ARC_KOSI
+    3300016: ARC_KUBI
+    3300018: ARC_MOMO_L
+    3300020: ARC_MOMO_R
+    3300022: ARC_SEBO_B
+    3300024: ARC_SEBO_M
+    3300026: ARC_SEBO_T
+    3300028: ARC_TE_L
+    3300030: ARC_TE_R
+    3300032: ARC_TUMA_L
+    3300034: ARC_TUMA_R
+    3300036: ARC_UDE_L
+    3300038: ARC_UDE_R
+    4300000: ARC_TUMA_R
+    4300002: ARC_KAKA_R
+    4300004: ARC_HIZA_R
+    4300006: ARC_MOMO_R
+    4300008: ARC_TUMA_L
+    4300010: ARC_KAKA_L
+    4300012: ARC_HIZA_L
+    4300014: ARC_MOMO_L
+    4300016: ARC_KAO
+    4300018: ARC_KUBI
+    4300020: ARC_TE_R
+    4300022: ARC_UDE_R
+    4300024: ARC_KATA_R
+    4300026: ARC_TE_L
+    4300028: ARC_UDE_L
+    4300030: ARC_KATA_L
+    4300032: ARC_SEBO_T
+    4300034: ARC_SEBO_M
+    4300036: ARC_SEBO_B
+    4300038: ARC_KOSI
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: j_kosi
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.10666663, y: 0, z: 0.053333316}
+        length: 0.13333333
+        modified: 1
+    - boneName: j_momo_l
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.3199998, y: 0, z: 0.1599999}
+        length: 0.39999992
+        modified: 1
+    - boneName: j_momo_r
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.31999987, y: 0, z: 0.15999994}
+        length: 0.39999998
+        modified: 1
+    - boneName: j_hiza_l
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.34399995, y: 0, z: 0.17199998}
+        length: 0.43000007
+        modified: 1
+    - boneName: j_hiza_r
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.34399995, y: 0, z: 0.17199998}
+        length: 0.43000007
+        modified: 1
+    - boneName: j_kaka_l
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.08957343, y: 0, z: 0.044786714}
+        length: 0.11196682
+        modified: 1
+    - boneName: j_kaka_r
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.089573376, y: 0, z: 0.044786688}
+        length: 0.11196676
+        modified: 1
+    - boneName: j_sebo_m
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.10666663, y: 0, z: 0.053333316}
+        length: 0.13333333
+        modified: 1
+    - boneName: j_sebo_t
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.10666663, y: 0, z: 0.053333316}
+        length: 0.13333333
+        modified: 1
+    - boneName: j_kubi
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.104, y: 0, z: 0.052}
+        length: 0.13000004
+        modified: 1
+    - boneName: j_kao
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.104, y: 0, z: 0.052}
+        length: 0.13000004
+        modified: 1
+    - boneName: j_sako_l
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.000002}
+        value: {x: 0.11199994, y: 0, z: 0.05599997}
+        length: 0.13999996
+        modified: 1
+    - boneName: j_sako_r
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.000002}
+        value: {x: 0.11199998, y: 0, z: 0.05599999}
+        length: 0.14000002
+        modified: 1
+    - boneName: j_kata_l
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.19199991, y: 0, z: 0.095999956}
+        length: 0.23999996
+        modified: 1
+    - boneName: j_kata_r
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.19199994, y: 0, z: 0.09599997}
+        length: 0.24
+        modified: 1
+    - boneName: j_ude_l
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.19199993, y: 0, z: 0.09599996}
+        length: 0.23999998
+        modified: 1
+    - boneName: j_ude_r
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.19199997, y: 0, z: 0.095999986}
+        length: 0.24000004
+        modified: 1
+    - boneName: j_te_l
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.09599996, y: 0, z: 0.04799998}
+        length: 0.11999999
+        modified: 1
+    - boneName: j_te_r
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.095999986, y: 0, z: 0.047999993}
+        length: 0.12000002
+        modified: 1
+    - boneName: j_tuma_l
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0.05199998, y: 0, z: 0.02599999}
+        length: 0.06499999
+        modified: 1
+    - boneName: j_tuma_r
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: 0.051999982, y: 0, z: 0.025999991}
+        length: 0.065
+        modified: 1
+    skeleton:
+    - name: john
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_kosi
+      parentName: 
+      position: {x: 0, y: 1.1448491, z: 0}
+      rotation: {x: 0.49999997, y: 0.49999997, z: 0.49999997, w: 0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_KOSI
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_mata_l
+      parentName: 
+      position: {x: -0.18000002, y: 0, z: -0.089999996}
+      rotation: {x: 0.70710677, y: -0.000000009152551, z: -0.000000009152551, w: 0.70710677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_momo_l
+      parentName: 
+      position: {x: -0.03000002, y: 0, z: 0}
+      rotation: {x: -0.7054746, y: -0.04801619, z: -0.04801619, w: 0.7054746}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_MOMO_L
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_hiza_l
+      parentName: 
+      position: {x: -0.39999995, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.13077158, w: 0.99141246}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: ARC_HIZA_L
+      parentName: 
+      position: {x: -0, y: -0.0000000014901161, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_kaka_l
+      parentName: 
+      position: {x: -0.43000004, y: -0.0000000014901161, z: 0}
+      rotation: {x: 0.0000000057954956, y: 0.000000002718447, z: -0.53539205, w: 0.8446036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: ARC_KAKA_L
+      parentName: 
+      position: {x: -0, y: 0, z: 0.000000011920929}
+      rotation: {x: -5.2939553e-23, y: 0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_tuma_l
+      parentName: 
+      position: {x: -0.13, y: 0.0000000059604646, z: 0.000000011920929}
+      rotation: {x: -2.6703042e-16, y: -9.172644e-16, z: -0.2795128, w: 0.96014196}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: ARC_TUMA_L
+      parentName: 
+      position: {x: -0, y: -0.0000000029802323, z: 0.000000011920929}
+      rotation: {x: -1.4596931e-26, y: -2.5243543e-29, z: -0, w: 0.99999994}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: j_mata_r
+      parentName: 
+      position: {x: -0.18000002, y: 0, z: 0.089999996}
+      rotation: {x: 0.70710677, y: -0.000000007802175, z: -0.000000007802174, w: 0.70710677}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_momo_r
+      parentName: 
+      position: {x: -0.03000002, y: 0, z: 0}
+      rotation: {x: -0.7054746, y: -0.04801619, z: -0.04801619, w: 0.7054746}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_MOMO_R
+      parentName: 
+      position: {x: -0, y: 0, z: -0.0000000059604646}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_hiza_r
+      parentName: 
+      position: {x: -0.39999995, y: -0.000000011920929, z: -0.0000000059604646}
+      rotation: {x: -7.259279e-18, y: 5.5034437e-17, z: 0.13077158, w: 0.99141246}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: ARC_HIZA_R
+      parentName: 
+      position: {x: -0, y: -0.0000000014901161, z: 0}
+      rotation: {x: 0, y: 5.5511145e-17, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_kaka_r
+      parentName: 
+      position: {x: -0.43000004, y: -0.0000000059604646, z: 0}
+      rotation: {x: 0.000000005795496, y: 0.000000002718447, z: -0.5353921, w: 0.8446036}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: ARC_KAKA_R
+      parentName: 
+      position: {x: -0, y: 0.0000000059604646, z: -0.000000011920929}
+      rotation: {x: -5.2939553e-23, y: -5.2939553e-23, z: -3e-45, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_tuma_r
+      parentName: 
+      position: {x: -0.13, y: 0, z: -0.000000011920929}
+      rotation: {x: -2.6703037e-16, y: -9.172643e-16, z: -0.27951267, w: 0.96014196}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: ARC_TUMA_R
+      parentName: 
+      position: {x: -0, y: -0.0000000029802323, z: -0.000000011920929}
+      rotation: {x: -1.4788302e-26, y: -2.5243543e-29, z: -0, w: 0.99999994}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: j_sebo_b
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 2.365362e-22, y: 1.7763566e-15, z: 0.99999994, w: 0.00000013315804}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_SEBO_B
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_sebo_m
+      parentName: 
+      position: {x: -0.13333331, y: 0, z: 0}
+      rotation: {x: -1.7763566e-15, y: 0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_SEBO_M
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_sebo_t
+      parentName: 
+      position: {x: -0.13333331, y: 0, z: 0}
+      rotation: {x: 1.7763566e-15, y: 0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_SEBO_T
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_kubi
+      parentName: 
+      position: {x: -0.13333331, y: 0, z: 0}
+      rotation: {x: 0.9999155, y: -0.012996716, z: -7.9581935e-19, w: 6.122716e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_KUBI
+      parentName: 
+      position: {x: -0, y: 0, z: -2.220446e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_kao
+      parentName: 
+      position: {x: -0.13000011, y: 0, z: -2.220446e-17}
+      rotation: {x: -0.69787264, y: 0.7162218, z: -0.0000000121526895, w: -0.000000012472219}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_KAO
+      parentName: 
+      position: {x: 0.0000000011175871, y: 0, z: 7.283063e-15}
+      rotation: {x: -0.00000004371139, y: 4.3021142e-15, z: 1.880514e-22, w: 0.99999994}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: j_sako_l
+      parentName: 
+      position: {x: -0.023333265, y: 0, z: -0.1}
+      rotation: {x: -0.49999997, y: -0.49999997, z: -0.49999997, w: 0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_kata_l
+      parentName: 
+      position: {x: -0.14000002, y: 0, z: 0}
+      rotation: {x: -0.70653397, y: 0.028457455, z: 0.028457575, w: 0.70653385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_KATA_L
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1.7763566e-15, y: 1.7763566e-15, z: -3.155443e-30, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_ude_l
+      parentName: 
+      position: {x: -0.24000001, y: -0.0000000029802323, z: 0}
+      rotation: {x: -0.000000007185259, y: 0.0000000068512005, z: -0.07905369, w: 0.99687034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_UDE_L
+      parentName: 
+      position: {x: 0.000000047683717, y: 0, z: 0}
+      rotation: {x: 1.7763566e-15, y: 6.661337e-16, z: -1.1832912e-30, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_te_l
+      parentName: 
+      position: {x: -0.24000001, y: 0.0000000059604646, z: 0}
+      rotation: {x: 1.7763566e-15, y: 6.661337e-16, z: -1.1832912e-30, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_TE_L
+      parentName: 
+      position: {x: -0, y: 0, z: 0.00000019073487}
+      rotation: {x: 0.00000016768267, y: 8.8551927e-16, z: -0.000000059604638, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_sako_r
+      parentName: 
+      position: {x: -0.023333265, y: 0, z: 0.1}
+      rotation: {x: -0.49999997, y: 0.49999997, z: 0.49999997, w: 0.49999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_kata_r
+      parentName: 
+      position: {x: -0.14000002, y: 0, z: 5.684342e-15}
+      rotation: {x: -0.70653385, y: 0.028457673, z: 0.02845741, w: 0.70653397}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_KATA_R
+      parentName: 
+      position: {x: -0, y: 0, z: -0.00000009536743}
+      rotation: {x: 0, y: 2.2204458e-16, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_ude_r
+      parentName: 
+      position: {x: -0.24000001, y: 0.0000000029802323, z: -0.00000009536743}
+      rotation: {x: -0.000000032499003, y: -0.00000011044134, z: -0.079053715, w: 0.99687034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_UDE_R
+      parentName: 
+      position: {x: 0.000000047683717, y: 0.000000011920929, z: 0}
+      rotation: {x: 0, y: -2.2204458e-16, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: j_te_r
+      parentName: 
+      position: {x: -0.24000001, y: 0.0000000059604646, z: 0}
+      rotation: {x: 0, y: -2.2204458e-16, z: -0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ARC_TE_R
+      parentName: 
+      position: {x: -0, y: 0, z: -0.00000009536743}
+      rotation: {x: 1.7763566e-15, y: -2.2204458e-16, z: 3.9443038e-31, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

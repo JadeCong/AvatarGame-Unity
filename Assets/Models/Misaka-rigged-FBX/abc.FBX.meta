@@ -1,0 +1,1149 @@
+fileFormatVersion: 2
+guid: bb581cced206b884f983f39c7081e3f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Base HumanLDigit12
+    100004: Base HumanLDigit12x
+    100006: Base HumanLDigit13
+    100008: Base HumanLDigit21
+    100010: Base HumanLDigit22
+    100012: Base HumanLDigit23
+    100014: Base HumanLDigit31
+    100016: Base HumanLDigit32
+    100018: Base HumanLDigit33
+    100020: Base HumanLDigit41
+    100022: Base HumanLDigit42
+    100024: Base HumanLDigit43
+    100026: Base HumanLDigit51
+    100028: Base HumanLDigit52
+    100030: Base HumanLDigit53
+    100032: Base HumanLToe1
+    100034: Base HumanRDigit12
+    100036: Base HumanRDigit12x
+    100038: Base HumanRDigit13
+    100040: Base HumanRToe1
+    100042: Girl_Collarbone
+    100044: Girl_Head
+    100046: Girl_HumanLCalf
+    100048: Girl_HumanRCalf
+    100050: Girl_LBreast
+    100052: Girl_LCollarbone
+    100054: Girl_LFoot
+    100056: Girl_LForearm
+    100058: Girl_LPalm
+    100060: Girl_LPlatform
+    100062: Girl_LThigh
+    100064: Girl_LUpperarm
+    100066: Girl_Neck1
+    100068: Girl_Neck2
+    100070: Girl_Pelvis
+    100072: Girl_RBreast
+    100074: Girl_RDigit21
+    100076: Girl_RDigit22
+    100078: Girl_RDigit23
+    100080: Girl_RDigit31
+    100082: Girl_RDigit32
+    100084: Girl_RDigit33
+    100086: Girl_RDigit41
+    100088: Girl_RDigit42
+    100090: Girl_RDigit43
+    100092: Girl_RDigit51
+    100094: Girl_RDigit52
+    100096: Girl_RDigit53
+    100098: Girl_RFoot
+    100100: Girl_RForearm
+    100102: Girl_Ribcage
+    100104: Girl_RPalm
+    100106: Girl_RPlatform
+    100108: Girl_RThigh
+    100110: Girl_RUpperarm
+    100112: Girl_Spine1
+    100114: Girl_Spine2
+    100116: Girl_Spine3
+    100118: Girl_Spine4
+    100120: MISAKA BODY
+    100122: MISAKA BRA
+    100124: MISAKA EYEBROWS
+    100126: MISAKA EYES
+    100128: MISAKA HAIR
+    100130: MISAKA PANTIES
+    100132: MISAKA PUSSY HAIR
+    100134: MISAKA SCHOOL SHIRT 1
+    100136: MISAKA SCHOOL SHIRT 2
+    100138: MISAKA SCHOOL SHOES
+    100140: MISAKA SCHOOL SKIRT
+    100142: MISAKA SHORTPANTS
+    100144: MISAKA SOCKS
+    400000: //RootNode
+    400002: Base HumanLDigit12
+    400004: Base HumanLDigit12x
+    400006: Base HumanLDigit13
+    400008: Base HumanLDigit21
+    400010: Base HumanLDigit22
+    400012: Base HumanLDigit23
+    400014: Base HumanLDigit31
+    400016: Base HumanLDigit32
+    400018: Base HumanLDigit33
+    400020: Base HumanLDigit41
+    400022: Base HumanLDigit42
+    400024: Base HumanLDigit43
+    400026: Base HumanLDigit51
+    400028: Base HumanLDigit52
+    400030: Base HumanLDigit53
+    400032: Base HumanLToe1
+    400034: Base HumanRDigit12
+    400036: Base HumanRDigit12x
+    400038: Base HumanRDigit13
+    400040: Base HumanRToe1
+    400042: Girl_Collarbone
+    400044: Girl_Head
+    400046: Girl_HumanLCalf
+    400048: Girl_HumanRCalf
+    400050: Girl_LBreast
+    400052: Girl_LCollarbone
+    400054: Girl_LFoot
+    400056: Girl_LForearm
+    400058: Girl_LPalm
+    400060: Girl_LPlatform
+    400062: Girl_LThigh
+    400064: Girl_LUpperarm
+    400066: Girl_Neck1
+    400068: Girl_Neck2
+    400070: Girl_Pelvis
+    400072: Girl_RBreast
+    400074: Girl_RDigit21
+    400076: Girl_RDigit22
+    400078: Girl_RDigit23
+    400080: Girl_RDigit31
+    400082: Girl_RDigit32
+    400084: Girl_RDigit33
+    400086: Girl_RDigit41
+    400088: Girl_RDigit42
+    400090: Girl_RDigit43
+    400092: Girl_RDigit51
+    400094: Girl_RDigit52
+    400096: Girl_RDigit53
+    400098: Girl_RFoot
+    400100: Girl_RForearm
+    400102: Girl_Ribcage
+    400104: Girl_RPalm
+    400106: Girl_RPlatform
+    400108: Girl_RThigh
+    400110: Girl_RUpperarm
+    400112: Girl_Spine1
+    400114: Girl_Spine2
+    400116: Girl_Spine3
+    400118: Girl_Spine4
+    400120: MISAKA BODY
+    400122: MISAKA BRA
+    400124: MISAKA EYEBROWS
+    400126: MISAKA EYES
+    400128: MISAKA HAIR
+    400130: MISAKA PANTIES
+    400132: MISAKA PUSSY HAIR
+    400134: MISAKA SCHOOL SHIRT 1
+    400136: MISAKA SCHOOL SHIRT 2
+    400138: MISAKA SCHOOL SHOES
+    400140: MISAKA SCHOOL SKIRT
+    400142: MISAKA SHORTPANTS
+    400144: MISAKA SOCKS
+    2100000: Misaka head
+    2100002: Misaka skin
+    2100004: Misaka hair
+    2100006: Misaka eye-base
+    2100008: Misaka eyes
+    2100010: Misaka hair pin
+    2100012: Misaka uniform skirt
+    2100014: Misaka shortpants
+    2100016: Misaka pussy hair
+    2100020: Misaka panties
+    2100022: Misaka school socks
+    2100024: Misaka school shoes
+    2100026: Misaka school shirt
+    2100028: Misaka school shirt2
+    2100030: Tokiwadai logo
+    4300000: MISAKA BODY
+    4300002: MISAKA EYEBROWS
+    4300004: MISAKA EYES
+    4300006: MISAKA HAIR
+    4300008: MISAKA SCHOOL SKIRT
+    4300010: MISAKA SHORTPANTS
+    4300012: MISAKA PUSSY HAIR
+    4300014: MISAKA BRA
+    4300016: MISAKA PANTIES
+    4300018: MISAKA SOCKS
+    4300020: MISAKA SCHOOL SHOES
+    4300022: MISAKA SCHOOL SHIRT 1
+    4300024: MISAKA SCHOOL SHIRT 2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: MISAKA BODY
+    13700002: MISAKA BRA
+    13700004: MISAKA EYEBROWS
+    13700006: MISAKA EYES
+    13700008: MISAKA HAIR
+    13700010: MISAKA PANTIES
+    13700012: MISAKA PUSSY HAIR
+    13700014: MISAKA SCHOOL SHIRT 1
+    13700016: MISAKA SCHOOL SHIRT 2
+    13700018: MISAKA SCHOOL SHOES
+    13700020: MISAKA SCHOOL SKIRT
+    13700022: MISAKA SHORTPANTS
+    13700024: MISAKA SOCKS
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 
+    second: {fileID: 2100000, guid: 8fe5f6ee8253a5abdb6e670e9e3bd069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka eye-base
+    second: {fileID: 2100000, guid: 0894c964af4d23244a39a33bfde1aacc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka eyes
+    second: {fileID: 2100000, guid: 469c48cc6553963a59a31d8234bbbf18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka hair
+    second: {fileID: 2100000, guid: b49bea0bd6a1116e2a4e088225e5ff6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka hair pin
+    second: {fileID: 2100000, guid: bb74368db6de8f144b9e9b58d0a4f31e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka head
+    second: {fileID: 2100000, guid: 64b094838b6c01deb8dffdcab61a27ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka panties
+    second: {fileID: 2100000, guid: d6b17ae29edbbb028b74da647fe69705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka pussy hair
+    second: {fileID: 2100000, guid: 36ba1f2f179616041a4b626af1a2b950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka school shirt
+    second: {fileID: 2100000, guid: 9e011174abb9fc1febe4b5a1647cab81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka school shirt2
+    second: {fileID: 2100000, guid: 89e8e955c4428a9ecab348d61a13ac0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka school shoes
+    second: {fileID: 2100000, guid: 4549dbd401aa980e4bcf89ca2b511527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka school socks
+    second: {fileID: 2100000, guid: 900e7b218d0f9174fbaaa4db3b022c52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka shortpants
+    second: {fileID: 2100000, guid: 8fccf225c3c716a439c3e276f2fa19fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka skin
+    second: {fileID: 2100000, guid: c5258f57ee40992d6addc0fee7a77168, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misaka uniform skirt
+    second: {fileID: 2100000, guid: ec2b3fce6502b0925970278d7f4b7c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tokiwadai logo
+    second: {fileID: 2100000, guid: 0467f307fd37dc9279c66605aac8fd51, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Girl_Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_LThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_HumanLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_HumanRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_LFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_Spine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_Spine3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_Neck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_Neck2
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_LCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_Collarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_LUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_LForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_LPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLToe1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanRToe1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_Head
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit12
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit12x
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit13
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit41
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit42
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit43
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit51
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit52
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanLDigit53
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanRDigit12
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanRDigit12x
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Base HumanRDigit13
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit42
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit43
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit51
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit52
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_RDigit53
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl_Spine4
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: abc(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Girl_LPlatform
+      parentName: abc(Clone)
+      position: {x: -0.13300394, y: 0.03278419, z: 0.24806869}
+      rotation: {x: -0.50000006, y: 0.5000001, z: 0.49999997, w: -0.4999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Girl_RPlatform
+      parentName: abc(Clone)
+      position: {x: 0.13671285, y: 0.03278419, z: 0.24806874}
+      rotation: {x: -0.50000006, y: 0.5000001, z: 0.49999997, w: -0.4999999}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MISAKA BODY
+      parentName: abc(Clone)
+      position: {x: 0.0018544625, y: 1.7116462, z: 0.25538656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.05, y: 1.05, z: 1.05}
+    - name: MISAKA EYEBROWS
+      parentName: MISAKA BODY
+      position: {x: -0, y: 0.032712992, z: -1.7523724}
+      rotation: {x: 1, y: -0, z: 0, w: 0.0000005326322}
+      scale: {x: -0.9999997, y: -0.9999997, z: -0.9999997}
+    - name: MISAKA EYES
+      parentName: MISAKA BODY
+      position: {x: -0, y: 0.032712992, z: -1.7523724}
+      rotation: {x: -0.00007700923, y: 0.0000002413115, z: -0.000000004849347, w: 1}
+      scale: {x: 9.997752, y: 9.9977455, z: 9.997749}
+    - name: MISAKA BRA
+      parentName: abc(Clone)
+      position: {x: 0.0018544625, y: 1.7116462, z: 0.25538656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.05, y: 1.05, z: 1.05}
+    - name: MISAKA HAIR
+      parentName: abc(Clone)
+      position: {x: 0.0013808297, y: 1.6413081, z: 0.2900016}
+      rotation: {x: 0.7071066, y: -0, z: -0, w: 0.70710695}
+      scale: {x: -1.1325722, y: -1.1325722, z: -1.132572}
+    - name: MISAKA PANTIES
+      parentName: abc(Clone)
+      position: {x: 0.0018544625, y: 1.7116462, z: 0.25538656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.05, y: 1.05, z: 1.05}
+    - name: MISAKA PUSSY HAIR
+      parentName: abc(Clone)
+      position: {x: 0.0018544625, y: 1.7116462, z: 0.25538656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.05, y: 1.05, z: 1.05}
+    - name: MISAKA SCHOOL SHIRT 1
+      parentName: abc(Clone)
+      position: {x: 0.0018544625, y: 1.7116462, z: 0.25538656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.05, y: 1.05, z: 1.05}
+    - name: MISAKA SCHOOL SHIRT 2
+      parentName: abc(Clone)
+      position: {x: 0.0018544625, y: 1.7116462, z: 0.25538656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.05, y: 1.05, z: 1.05}
+    - name: MISAKA SCHOOL SHOES
+      parentName: abc(Clone)
+      position: {x: 0.0018544625, y: 1.7116462, z: 0.25538656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.05, y: 1.05, z: 1.05}
+    - name: MISAKA SCHOOL SKIRT
+      parentName: abc(Clone)
+      position: {x: 0.0018593692, y: -0.3270597, z: 0.2283324}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MISAKA SHORTPANTS
+      parentName: abc(Clone)
+      position: {x: 0.0018464898, y: -0.16198112, z: 0.36466765}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MISAKA SOCKS
+      parentName: abc(Clone)
+      position: {x: 0.0018544625, y: 1.7116462, z: 0.25538656}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.05, y: 1.05, z: 1.05}
+    - name: Girl_Pelvis
+      parentName: abc(Clone)
+      position: {x: 0.0018545126, y: 0.9785668, z: -0.020138338}
+      rotation: {x: 0.49912283, y: -0.5008672, z: -0.49913123, w: 0.5008757}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Girl_LThigh
+      parentName: Girl_Pelvis
+      position: {x: 0.01560379, y: 0.020084018, z: 0.09936867}
+      rotation: {x: -0.00149975, y: 0.9999285, z: 0.00785889, w: -0.008895326}
+      scale: {x: 0.9999996, y: 1.0000001, z: 1.0000001}
+    - name: Girl_HumanLCalf
+      parentName: Girl_LThigh
+      position: {x: -0.3937615, y: 0.000000019073486, z: 0.0000000047683715}
+      rotation: {x: -0.00050336437, y: -0.0017331385, z: 0.04300238, w: 0.9990734}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000002}
+    - name: Girl_LFoot
+      parentName: Girl_HumanLCalf
+      position: {x: -0.4815177, y: -0.000000019073486, z: -0.0000000047683715}
+      rotation: {x: -0.08509428, y: -0.059863865, z: -0.58138824, w: 0.80694675}
+      scale: {x: 0.9999999, y: 0.99999905, z: 0.99999994}
+    - name: Base HumanLToe1
+      parentName: Girl_LFoot
+      position: {x: -0.15086956, y: -0.000043029784, z: 0.00043967724}
+      rotation: {x: -0.010388159, y: -0.050583515, z: -0.20001897, w: 0.9784303}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Girl_RThigh
+      parentName: Girl_Pelvis
+      position: {x: 0.01560379, y: 0.020084018, z: -0.09936867}
+      rotation: {x: -0.0015010802, y: 0.9999285, z: -0.007858878, w: 0.008895492}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000001}
+    - name: Girl_HumanRCalf
+      parentName: Girl_RThigh
+      position: {x: -0.39376158, y: 0.000000038146972, z: -0.000000014305114}
+      rotation: {x: 0.0005032395, y: 0.0017362167, z: 0.043004822, w: 0.99907327}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000004}
+    - name: Girl_RFoot
+      parentName: Girl_HumanRCalf
+      position: {x: -0.48151767, y: 0, z: 0}
+      rotation: {x: 0.08507531, y: 0.05982258, z: -0.581345, w: 0.80698293}
+      scale: {x: 0.99999994, y: 0.99999917, z: 0.99999994}
+    - name: Base HumanRToe1
+      parentName: Girl_RFoot
+      position: {x: -0.15086952, y: -0.000043048858, z: -0.00043965576}
+      rotation: {x: 0.01038277, y: 0.050623782, z: -0.20007697, w: 0.9784164}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000002}
+    - name: Girl_Spine1
+      parentName: Girl_Pelvis
+      position: {x: -0.047711868, y: -0.0036504935, z: -0.000000008940696}
+      rotation: {x: 0.000000012708969, y: -0.000000056123987, z: -0.20343494, w: 0.9790885}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Girl_Spine2
+      parentName: Girl_Spine1
+      position: {x: -0.09983711, y: 0.000000038146972, z: 0}
+      rotation: {x: 0.0000000010609098, y: 0.000000023620826, z: 0.22665279, w: 0.97397566}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Girl_Spine3
+      parentName: Girl_Spine2
+      position: {x: -0.08895225, y: 0, z: 0}
+      rotation: {x: 0.0000000042236366, y: 0.000000022027377, z: 0.03843228, w: 0.9992612}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Girl_Spine4
+      parentName: Girl_Spine3
+      position: {x: -0.17962874, y: -0.000000076293944, z: 0}
+      rotation: {x: -0.0000000137171, y: 0.0000000054064975, z: -0.028530372, w: 0.99959296}
+      scale: {x: 0.9999996, y: 0.9999996, z: 1}
+    - name: Girl_Ribcage
+      parentName: Girl_Spine4
+      position: {x: -0.16422698, y: 0, z: 0}
+      rotation: {x: 0.000000002168782, y: -0.000000010446705, z: -0.034547083, w: 0.99940306}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Girl_Neck1
+      parentName: Girl_Ribcage
+      position: {x: -0.00082901, y: -0.0036504744, z: -0.000000007152557}
+      rotation: {x: -0.00000001162296, y: 0.000000010225283, z: -0.09003481, w: 0.9959386}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Girl_Neck2
+      parentName: Girl_Neck1
+      position: {x: -0.049749907, y: 0, z: 1.4901161e-10}
+      rotation: {x: 0.000000024838199, y: -0.00000005762218, z: 0.20008387, w: 0.97977877}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: Girl_Head
+      parentName: Girl_Neck2
+      position: {x: -0.064510345, y: 0.000000076293944, z: 0}
+      rotation: {x: -0.0000000070516615, y: 0.000000055088936, z: -0.062149823, w: 0.99806684}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999994}
+    - name: Girl_RBreast
+      parentName: Girl_Ribcage
+      position: {x: 0.17572753, y: 0.15514745, z: -0.07215812}
+      rotation: {x: -9.693336e-15, y: 1.3877787e-17, z: -5.8207654e-11, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Girl_LBreast
+      parentName: Girl_Ribcage
+      position: {x: 0.17572753, y: 0.15514757, z: 0.07200568}
+      rotation: {x: -9.693336e-15, y: 1.3877787e-17, z: -5.8207654e-11, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Girl_LCollarbone
+      parentName: Girl_Ribcage
+      position: {x: 0.028498534, y: 0.005338154, z: 0.069109544}
+      rotation: {x: -0.05379746, y: 0.8117561, z: 0.051164877, w: 0.5792583}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: Girl_LUpperarm
+      parentName: Girl_LCollarbone
+      position: {x: -0.0858419, y: 0, z: 0}
+      rotation: {x: 0.049633548, y: -0.1367439, z: 0.0005823745, w: 0.9893621}
+      scale: {x: 0.99999964, y: 0.99999964, z: 0.9999998}
+    - name: Girl_LForearm
+      parentName: Girl_LUpperarm
+      position: {x: -0.28735885, y: 0, z: 0}
+      rotation: {x: 0.07178651, y: -0.038324617, z: -0.037027106, w: 0.99599546}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000001}
+    - name: Girl_LPalm
+      parentName: Girl_LForearm
+      position: {x: -0.26430735, y: 0, z: 0}
+      rotation: {x: -0.7065936, y: -0.031638637, z: -0.020199874, w: 0.7066233}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000005}
+    - name: Base HumanLDigit51
+      parentName: Girl_LPalm
+      position: {x: -0.06540218, y: -0.012753296, z: -0.024004592}
+      rotation: {x: -0.063230515, y: 0.0062538506, z: -0.031586345, w: 0.9974794}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: Base HumanLDigit52
+      parentName: Base HumanLDigit51
+      position: {x: -0.030692672, y: 0, z: 0.000000038146972}
+      rotation: {x: 0.024925703, y: 0.013922402, z: 0.032917827, w: 0.9990502}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Base HumanLDigit53
+      parentName: Base HumanLDigit52
+      position: {x: -0.0167181, y: 0.000000076293944, z: 0}
+      rotation: {x: 0.000000001396984, y: -9.313227e-10, z: 0.000000014901163, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Base HumanLDigit31
+      parentName: Girl_LPalm
+      position: {x: -0.06919521, y: 0.0062348936, z: 0.010632324}
+      rotation: {x: -0.027688192, y: 0.030610353, z: 0.022298833, w: 0.99889904}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Base HumanLDigit32
+      parentName: Base HumanLDigit31
+      position: {x: -0.055390317, y: -0.00000015258789, z: 0.000000019073486}
+      rotation: {x: -0.0009409797, y: 0.0063053174, z: 0.040899, w: 0.999143}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.99999994}
+    - name: Base HumanLDigit33
+      parentName: Base HumanLDigit32
+      position: {x: -0.024619827, y: -0.00000015258789, z: 0.000000019073486}
+      rotation: {x: 0.015850017, y: 0.0027638, z: -0.050252277, w: 0.998607}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Base HumanLDigit41
+      parentName: Girl_LPalm
+      position: {x: -0.07114208, y: -0.0020672607, z: -0.0061158943}
+      rotation: {x: -0.056534622, y: 0.009227672, z: -0.007254848, w: 0.9983316}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: Base HumanLDigit42
+      parentName: Base HumanLDigit41
+      position: {x: -0.04598545, y: 0.00000015258789, z: 0.000000076293944}
+      rotation: {x: 0.0076983925, y: 0.01933721, z: -0.007632583, w: 0.99975425}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Base HumanLDigit43
+      parentName: Base HumanLDigit42
+      position: {x: -0.02252716, y: -0.00000015258789, z: 0.000000038146972}
+      rotation: {x: 0.0025625823, y: -0.00066166086, z: 0.076093055, w: 0.99709725}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+    - name: Base HumanLDigit21
+      parentName: Girl_LPalm
+      position: {x: -0.07202976, y: 0.0050502014, z: 0.029153327}
+      rotation: {x: 0.039490648, y: 0.06875667, z: 0.03444933, w: 0.9962561}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Base HumanLDigit22
+      parentName: Base HumanLDigit21
+      position: {x: -0.042705994, y: 0, z: -0.000000009536743}
+      rotation: {x: -0.0014511135, y: 0.021881161, z: 0.016199091, w: 0.9996283}
+      scale: {x: 1.0000004, y: 1, z: 0.99999976}
+    - name: Base HumanLDigit23
+      parentName: Base HumanLDigit22
+      position: {x: -0.023831863, y: 0.00000030517577, z: 0.000000009536743}
+      rotation: {x: 0.011890131, y: -0.027156362, z: 0.01649981, w: 0.9994243}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000002}
+    - name: Base HumanLDigit12
+      parentName: Girl_LPalm
+      position: {x: -0.012119674, y: -0.016925048, z: 0.036149424}
+      rotation: {x: 0.18560699, y: 0.39015257, z: -0.10001577, w: 0.8962856}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: Base HumanLDigit12x
+      parentName: Base HumanLDigit12
+      position: {x: -0.040409774, y: -0.00000015258789, z: 0}
+      rotation: {x: 0.025270298, y: 0.038000323, z: 0.011014462, w: 0.9988975}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Base HumanLDigit13
+      parentName: Base HumanLDigit12x
+      position: {x: -0.02429615, y: 0, z: 0.000000038146972}
+      rotation: {x: 0.07673635, y: 0.03014334, z: -0.010141879, w: 0.99654406}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Girl_Collarbone
+      parentName: Girl_Ribcage
+      position: {x: 0.028498534, y: 0.005338154, z: -0.06910955}
+      rotation: {x: 0.05379753, y: -0.8117558, z: 0.051164914, w: 0.5792587}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: Girl_RUpperarm
+      parentName: Girl_Collarbone
+      position: {x: -0.085841976, y: 0.000000038146972, z: 0}
+      rotation: {x: -0.049633514, y: 0.13674349, z: 0.0005822516, w: 0.9893621}
+      scale: {x: 0.99999964, y: 0.9999997, z: 0.99999976}
+    - name: Girl_RForearm
+      parentName: Girl_RUpperarm
+      position: {x: -0.28735885, y: 0.000000019073486, z: -0.000000076293944}
+      rotation: {x: -0.071786486, y: 0.038324103, z: -0.037027027, w: 0.9959955}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000002}
+    - name: Girl_RPalm
+      parentName: Girl_RForearm
+      position: {x: -0.26430732, y: 0.000000019073486, z: 0.00000030517577}
+      rotation: {x: 0.7065936, y: 0.03163864, z: -0.02019987, w: 0.7066233}
+      scale: {x: 0.9999997, y: 0.99999976, z: 1.0000005}
+    - name: Girl_RDigit51
+      parentName: Girl_RPalm
+      position: {x: -0.06540241, y: -0.012753448, z: 0.024004592}
+      rotation: {x: 0.06323031, y: -0.006254559, z: -0.03158365, w: 0.99747944}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999999}
+    - name: Girl_RDigit52
+      parentName: Girl_RDigit51
+      position: {x: -0.030692749, y: 0.00000015258789, z: 0.000000038146972}
+      rotation: {x: -0.024925413, y: -0.013915426, z: 0.032908283, w: 0.9990507}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Girl_RDigit53
+      parentName: Girl_RDigit52
+      position: {x: -0.01671814, y: 0.000000076293944, z: -0.000000038146972}
+      rotation: {x: 9.313226e-10, y: -0.0000000046566133, z: 4.336809e-18, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Girl_RDigit41
+      parentName: Girl_RPalm
+      position: {x: -0.07114216, y: -0.0020677184, z: 0.006115875}
+      rotation: {x: 0.056534402, y: -0.009228744, z: -0.007253565, w: 0.99833167}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: Girl_RDigit42
+      parentName: Girl_RDigit41
+      position: {x: -0.045985375, y: 0, z: 0}
+      rotation: {x: -0.0076983944, y: -0.019337215, z: -0.0076325694, w: 0.99975425}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Girl_RDigit43
+      parentName: Girl_RDigit42
+      position: {x: -0.022527007, y: 0, z: 0}
+      rotation: {x: -0.0025625818, y: 0.00066166115, z: 0.07609304, w: 0.99709725}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Girl_RDigit31
+      parentName: Girl_RPalm
+      position: {x: -0.069195405, y: 0.0062347413, z: -0.010632324}
+      rotation: {x: 0.027688285, y: -0.030609876, z: 0.022299815, w: 0.99889904}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Girl_RDigit32
+      parentName: Girl_RDigit31
+      position: {x: -0.055390242, y: -0.00000015258789, z: -0.000000019073486}
+      rotation: {x: 0.0009408011, y: -0.006307059, z: 0.040912166, w: 0.9991424}
+      scale: {x: 1, y: 0.99999976, z: 1.0000001}
+    - name: Girl_RDigit33
+      parentName: Girl_RDigit32
+      position: {x: -0.024619827, y: 0.00000015258789, z: -0.000000019073486}
+      rotation: {x: -0.01585002, y: -0.0027637996, z: -0.050252292, w: 0.998607}
+      scale: {x: 0.9999998, y: 1, z: 0.99999976}
+    - name: Girl_RDigit21
+      parentName: Girl_RPalm
+      position: {x: -0.07202991, y: 0.0050500487, z: -0.029153327}
+      rotation: {x: -0.03949063, y: -0.06875646, z: 0.034451284, w: 0.9962561}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Girl_RDigit22
+      parentName: Girl_RDigit21
+      position: {x: -0.04270588, y: 0, z: -0.000000019073486}
+      rotation: {x: 0.0014510988, y: -0.021881169, z: 0.016199091, w: 0.9996283}
+      scale: {x: 1.0000004, y: 1, z: 0.9999997}
+    - name: Girl_RDigit23
+      parentName: Girl_RDigit22
+      position: {x: -0.02383175, y: 0, z: 0.000000038146972}
+      rotation: {x: -0.011890135, y: 0.027156392, z: 0.016499797, w: 0.9994243}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Base HumanRDigit12
+      parentName: Girl_RPalm
+      position: {x: -0.012119789, y: -0.016925048, z: -0.036149442}
+      rotation: {x: -0.18560863, y: -0.39015308, z: -0.100013524, w: 0.89628536}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Base HumanRDigit12x
+      parentName: Base HumanRDigit12
+      position: {x: -0.04040985, y: -0.000000076293944, z: -0.000000038146972}
+      rotation: {x: -0.025270198, y: -0.038003635, z: 0.011014679, w: 0.9988973}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: Base HumanRDigit13
+      parentName: Base HumanRDigit12x
+      position: {x: -0.024296263, y: 0, z: 0.000000076293944}
+      rotation: {x: -0.07673635, y: -0.03014335, z: -0.010141895, w: 0.99654406}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

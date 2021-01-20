@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 1da352e2fd939c640afae105496f9924
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base HumanLDigit12
+    100002: Base HumanLDigit12x
+    100004: Base HumanLDigit13
+    100006: Base HumanLDigit21
+    100008: Base HumanLDigit22
+    100010: Base HumanLDigit23
+    100012: Base HumanLDigit31
+    100014: Base HumanLDigit32
+    100016: Base HumanLDigit33
+    100018: Base HumanLDigit41
+    100020: Base HumanLDigit42
+    100022: Base HumanLDigit43
+    100024: Base HumanLDigit51
+    100026: Base HumanLDigit52
+    100028: Base HumanLDigit53
+    100030: Base HumanLToe1
+    100032: Base HumanRDigit12
+    100034: Base HumanRDigit12x
+    100036: Base HumanRDigit13
+    100038: Base HumanRToe1
+    100040: Girl_Base
+    100042: Girl_Collarbone
+    100044: Girl_Head
+    100046: Girl_HumanLCalf
+    100048: Girl_HumanRCalf
+    100050: Girl_LBreast
+    100052: Girl_LCollarbone
+    100054: Girl_LFoot
+    100056: Girl_LForearm
+    100058: Girl_LPalm
+    100060: Girl_LPlatform
+    100062: Girl_LThigh
+    100064: Girl_LUpperarm
+    100066: Girl_Neck1
+    100068: Girl_Neck2
+    100070: Girl_Pelvis
+    100072: Girl_RBreast
+    100074: Girl_RDigit21
+    100076: Girl_RDigit22
+    100078: Girl_RDigit23
+    100080: Girl_RDigit31
+    100082: Girl_RDigit32
+    100084: Girl_RDigit33
+    100086: Girl_RDigit41
+    100088: Girl_RDigit42
+    100090: Girl_RDigit43
+    100092: Girl_RDigit51
+    100094: Girl_RDigit52
+    100096: Girl_RDigit53
+    100098: Girl_RFoot
+    100100: Girl_RForearm
+    100102: Girl_Ribcage
+    100104: Girl_RPalm
+    100106: Girl_RPlatform
+    100108: Girl_RThigh
+    100110: Girl_RUpperarm
+    100112: Girl_Spine1
+    100114: Girl_Spine2
+    100116: Girl_Spine3
+    100118: Girl_Spine4
+    100120: MISAKA BODY
+    100122: MISAKA BRA
+    100124: MISAKA DRESS
+    100126: MISAKA EYEBROWS
+    100128: MISAKA EYES
+    100130: MISAKA HAIR
+    100132: MISAKA HAIR WEAR
+    100134: MISAKA PAJAMAS BOTTOM
+    100136: MISAKA PAJAMAS TOP
+    100138: MISAKA PANTIES
+    100140: MISAKA PUSSY HAIR
+    100142: MISAKA SCHOOL SHIRT 1
+    100144: MISAKA SCHOOL SHIRT 2
+    100146: MISAKA SCHOOL SHOES
+    100148: MISAKA SCHOOL SKIRT
+    100150: MISAKA SHOES
+    100152: MISAKA SHORTPANTS
+    100154: MISAKA SLIPPERS
+    100156: MISAKA SOCKS
+    100158: //RootNode
+    400000: Base HumanLDigit12
+    400002: Base HumanLDigit12x
+    400004: Base HumanLDigit13
+    400006: Base HumanLDigit21
+    400008: Base HumanLDigit22
+    400010: Base HumanLDigit23
+    400012: Base HumanLDigit31
+    400014: Base HumanLDigit32
+    400016: Base HumanLDigit33
+    400018: Base HumanLDigit41
+    400020: Base HumanLDigit42
+    400022: Base HumanLDigit43
+    400024: Base HumanLDigit51
+    400026: Base HumanLDigit52
+    400028: Base HumanLDigit53
+    400030: Base HumanLToe1
+    400032: Base HumanRDigit12
+    400034: Base HumanRDigit12x
+    400036: Base HumanRDigit13
+    400038: Base HumanRToe1
+    400040: Girl_Base
+    400042: Girl_Collarbone
+    400044: Girl_Head
+    400046: Girl_HumanLCalf
+    400048: Girl_HumanRCalf
+    400050: Girl_LBreast
+    400052: Girl_LCollarbone
+    400054: Girl_LFoot
+    400056: Girl_LForearm
+    400058: Girl_LPalm
+    400060: Girl_LPlatform
+    400062: Girl_LThigh
+    400064: Girl_LUpperarm
+    400066: Girl_Neck1
+    400068: Girl_Neck2
+    400070: Girl_Pelvis
+    400072: Girl_RBreast
+    400074: Girl_RDigit21
+    400076: Girl_RDigit22
+    400078: Girl_RDigit23
+    400080: Girl_RDigit31
+    400082: Girl_RDigit32
+    400084: Girl_RDigit33
+    400086: Girl_RDigit41
+    400088: Girl_RDigit42
+    400090: Girl_RDigit43
+    400092: Girl_RDigit51
+    400094: Girl_RDigit52
+    400096: Girl_RDigit53
+    400098: Girl_RFoot
+    400100: Girl_RForearm
+    400102: Girl_Ribcage
+    400104: Girl_RPalm
+    400106: Girl_RPlatform
+    400108: Girl_RThigh
+    400110: Girl_RUpperarm
+    400112: Girl_Spine1
+    400114: Girl_Spine2
+    400116: Girl_Spine3
+    400118: Girl_Spine4
+    400120: MISAKA BODY
+    400122: MISAKA BRA
+    400124: MISAKA DRESS
+    400126: MISAKA EYEBROWS
+    400128: MISAKA EYES
+    400130: MISAKA HAIR
+    400132: MISAKA HAIR WEAR
+    400134: MISAKA PAJAMAS BOTTOM
+    400136: MISAKA PAJAMAS TOP
+    400138: MISAKA PANTIES
+    400140: MISAKA PUSSY HAIR
+    400142: MISAKA SCHOOL SHIRT 1
+    400144: MISAKA SCHOOL SHIRT 2
+    400146: MISAKA SCHOOL SHOES
+    400148: MISAKA SCHOOL SKIRT
+    400150: MISAKA SHOES
+    400152: MISAKA SHORTPANTS
+    400154: MISAKA SLIPPERS
+    400156: MISAKA SOCKS
+    400158: //RootNode
+    2100000: Misaka head
+    2100002: Misaka skin
+    2100004: Misaka hair
+    2100006: Misaka eye-base
+    2100008: Misaka eyes
+    2100010: Misaka hair pin
+    2100012: Misaka uniform skirt
+    2100014: Misaka shortpants
+    2100016: Misaka hair flower
+    2100018: Misaka dress
+    2100020: Misaka pussy hair
+    2100024: Misaka panties
+    2100026: Misaka school socks
+    2100028: Misaka school shoes
+    2100030: Misaka school shirt
+    2100032: Misaka school shirt2
+    2100034: Tokiwadai logo
+    2100036: Misaka pajamas bot
+    2100038: Misaka pajamas top
+    2100040: Misaka slipper
+    2100042: Misaka shoes
+    4300000: MISAKA BODY
+    4300002: MISAKA EYEBROWS
+    4300004: MISAKA EYES
+    4300006: MISAKA HAIR
+    4300008: MISAKA SCHOOL SKIRT
+    4300010: MISAKA SHORTPANTS
+    4300012: MISAKA HAIR WEAR
+    4300014: MISAKA DRESS
+    4300016: MISAKA PUSSY HAIR
+    4300018: MISAKA BRA
+    4300020: MISAKA PANTIES
+    4300022: MISAKA SOCKS
+    4300024: MISAKA SCHOOL SHOES
+    4300026: MISAKA SCHOOL SHIRT 1
+    4300028: MISAKA SCHOOL SHIRT 2
+    4300030: MISAKA PAJAMAS BOTTOM
+    4300032: MISAKA PAJAMAS TOP
+    4300034: MISAKA SLIPPERS
+    4300036: MISAKA SHOES
+    9500000: //RootNode
+    13700000: MISAKA BODY
+    13700002: MISAKA BRA
+    13700004: MISAKA DRESS
+    13700006: MISAKA EYEBROWS
+    13700008: MISAKA EYES
+    13700010: MISAKA HAIR
+    13700012: MISAKA HAIR WEAR
+    13700014: MISAKA PAJAMAS BOTTOM
+    13700016: MISAKA PAJAMAS TOP
+    13700018: MISAKA PANTIES
+    13700020: MISAKA PUSSY HAIR
+    13700022: MISAKA SCHOOL SHIRT 1
+    13700024: MISAKA SCHOOL SHIRT 2
+    13700026: MISAKA SCHOOL SHOES
+    13700028: MISAKA SCHOOL SKIRT
+    13700030: MISAKA SHOES
+    13700032: MISAKA SHORTPANTS
+    13700034: MISAKA SLIPPERS
+    13700036: MISAKA SOCKS
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

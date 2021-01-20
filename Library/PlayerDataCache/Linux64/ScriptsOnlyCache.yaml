@@ -1,0 +1,1704 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp-firstpass.dll:
+    - RootMotion.Demos.InteractionSystemTestGUI
+    - RootMotion.FinalIK.FullBodyBipedIK
+    - RootMotion.FinalIK.InteractionObject
+    - RootMotion.FinalIK.InteractionSystem
+    - RootMotion.FinalIK.InteractionTarget
+    - RootMotion.FinalIK.InteractionTrigger
+    Assembly-CSharp.dll:
+    - AvatarGameStart
+    - DriveAvatar2D
+    - DriveAvatar3D
+    - DriveAvatar3DWithFinalIK
+    - DriveAvatar3DWithJoints
+    - DriveAvatar3DWithPoses
+    - DriveAvatar3DWithPoses1
+    - DriveAvatar3DWithPoses2
+    - DriveAvatar3DWithPoses3
+    - DriveAvatar3DWithPoses4
+    - DriveAvatar3DWithPoses5
+    - DriveAvatar3DWithPoses6
+    - InputInfos
+    - RuntimeAvatarMotionCopy
+    - SetDataToFullBodyBipedIK
+    - ShowHumanSkeletons
+    - ShowText
+    - UnityChan.CameraController
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.InputField
+    - UnityEngine.UI.Text
+    com.unity.quicksearch.dll:
+    - Unity.QuickSearch.SearchDatabase
+  sceneClasses:
+    Assets/Scenes/AvatarGameEndScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11308}
+    - Class: 114
+      Script: {instanceID: 11546}
+    - Class: 114
+      Script: {instanceID: 11608}
+    - Class: 114
+      Script: {instanceID: 12150}
+    - Class: 114
+      Script: {instanceID: 12772}
+    - Class: 114
+      Script: {instanceID: 13454}
+    - Class: 114
+      Script: {instanceID: 14038}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/AvatarGamePlayScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11308}
+    - Class: 114
+      Script: {instanceID: 11318}
+    - Class: 114
+      Script: {instanceID: 11478}
+    - Class: 114
+      Script: {instanceID: 11546}
+    - Class: 114
+      Script: {instanceID: 11598}
+    - Class: 114
+      Script: {instanceID: 11608}
+    - Class: 114
+      Script: {instanceID: 11774}
+    - Class: 114
+      Script: {instanceID: 12114}
+    - Class: 114
+      Script: {instanceID: 12150}
+    - Class: 114
+      Script: {instanceID: 12356}
+    - Class: 114
+      Script: {instanceID: 12400}
+    - Class: 114
+      Script: {instanceID: 12502}
+    - Class: 114
+      Script: {instanceID: 12524}
+    - Class: 114
+      Script: {instanceID: 12604}
+    - Class: 114
+      Script: {instanceID: 12606}
+    - Class: 114
+      Script: {instanceID: 12696}
+    - Class: 114
+      Script: {instanceID: 12772}
+    - Class: 114
+      Script: {instanceID: 12786}
+    - Class: 114
+      Script: {instanceID: 12838}
+    - Class: 114
+      Script: {instanceID: 13044}
+    - Class: 114
+      Script: {instanceID: 13232}
+    - Class: 114
+      Script: {instanceID: 13454}
+    - Class: 114
+      Script: {instanceID: 13460}
+    - Class: 114
+      Script: {instanceID: 13546}
+    - Class: 114
+      Script: {instanceID: 13782}
+    - Class: 114
+      Script: {instanceID: 13852}
+    - Class: 114
+      Script: {instanceID: 13974}
+    - Class: 114
+      Script: {instanceID: 13994}
+    - Class: 114
+      Script: {instanceID: 14032}
+    - Class: 114
+      Script: {instanceID: 14038}
+    - Class: 114
+      Script: {instanceID: 159178}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/AvatarGameStartScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11308}
+    - Class: 114
+      Script: {instanceID: 11546}
+    - Class: 114
+      Script: {instanceID: 11608}
+    - Class: 114
+      Script: {instanceID: 12150}
+    - Class: 114
+      Script: {instanceID: 12772}
+    - Class: 114
+      Script: {instanceID: 13454}
+    - Class: 114
+      Script: {instanceID: 14038}
+    - Class: 114
+      Script: {instanceID: 33532}
+    - Class: 114
+      Script: {instanceID: 48810}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 949efd6b73876c9bc9370fbb44791e6f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RuntimeAvatarMotionCopy
+  - hash:
+      serializedVersion: 2
+      Hash: 33423f2f42989cd6e2eafdf10d91f7bd
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: AnimatorController3rdPersonIK
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: b640470eaa5c5e26ad97edae148d0eba
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: LimbIK
+  - hash:
+      serializedVersion: 2
+      Hash: 29a60a87f1d7ef46732c0a5a9eed5e55
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: PickUpBox
+  - hash:
+      serializedVersion: 2
+      Hash: 4b119a15e4f723b732e672e7f91586b9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: PendulumExample
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 626925ef558787b2d85c809198164d19
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 57ea3e29725e1c484f437309fbd1820b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: CharacterAnimationSimple
+  - hash:
+      serializedVersion: 2
+      Hash: 1aa8c074f3c00f761ac9dd0688201da3
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: TwistRelaxer
+  - hash:
+      serializedVersion: 2
+      Hash: 9107d9fd9ed49213753982939df137af
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: FBIKHandsOnProp
+  - hash:
+      serializedVersion: 2
+      Hash: 9e105c9effa6d7fc8c5eae06b7e3d9db
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: GrounderVRIK
+  - hash:
+      serializedVersion: 2
+      Hash: c6945ffdc78ce3f952d79dc51ee6d27d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: HandPoser
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: ac47f8968a51812d87805d9168be416e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithPoses3
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: Fake
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: SoccerDemo
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 768e0b2401d6f4fdefbb3f86c12c662e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion
+    className: Comments
+  - hash:
+      serializedVersion: 2
+      Hash: 73d61f64337ddeb75504d346bf72d9fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithPoses2
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 83a4e2d109d3450aacc84bcd4158b934
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: ArmIK
+  - hash:
+      serializedVersion: 2
+      Hash: b15d4b1355bfaacbe976a4b53da8c2be
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: MotionAbsorbCharacter
+  - hash:
+      serializedVersion: 2
+      Hash: ae3be8931454e838f67550db7c1ff99d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: SlowMo
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: AvatarRetarget.Retarget
+    className: PoseRetarget
+  - hash:
+      serializedVersion: 2
+      Hash: 234235b9fb07320d11497e08a726cc56
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 269dbf70d0549985f1f266a1f268880e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: IKExecutionOrder
+  - hash:
+      serializedVersion: 2
+      Hash: 5eeeeec04a620c1a6d443f31d664793d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: InteractionC2CDemo
+  - hash:
+      serializedVersion: 2
+      Hash: 4e89d2fc27784a9847164566dc6aa44e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: GenericPoser
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: ApplicationQuit
+  - hash:
+      serializedVersion: 2
+      Hash: 55e56ad30d1ad3b2517f2e6f14bb24d5
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: AimController
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 7d50544b9a1985f321f8ead7c29ee227
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: InteractionDemo
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ab0d50a7d312400076be587269334d44
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: AutoBlink
+  - hash:
+      serializedVersion: 2
+      Hash: dd4664068596059047cf62f989aafb69
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithPoses4
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 1c2479a7d4666ec3a3da0c3f9ab7f7f2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: RotationLimitHinge
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: f1927d0244fcddaf09202e51573a4d10
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: JustWithJoints.Avatars
+    className: SkeletonAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: d941ab6dd93d37ffdf2277f2ea2375a0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 65319441a3943bd6bb4118b21ab5f497
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: VRIK
+  - hash:
+      serializedVersion: 2
+      Hash: f68ff45d842c843e92e11d7546b12c5e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: TouchWalls
+  - hash:
+      serializedVersion: 2
+      Hash: 78dbd26f95e75af6071815f6c804d0e4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: UserControlAI
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 8e77060c36a6dac6b70a70b699d69574
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: AnimatorController3rdPerson
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MatrixCalc
+  - hash:
+      serializedVersion: 2
+      Hash: b6dda63c03199243e6f9df6a3868d53c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RuntimeAvatarRetarget
+  - hash:
+      serializedVersion: 2
+      Hash: dfe5cca4c3679f0d053990204fdc938c
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: GrounderIK
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: c1a8c9d93648ce5e380b25067ad928f0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JustWithJoints
+    className: CMUMotionPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 5f5fd931a68cf97263e6bae5a26c7bd2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: BVHExNormal
+  - hash:
+      serializedVersion: 2
+      Hash: 294f109ebbff21c2cdf9b7a45d2fb03c
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: FBBIKHeadEffector
+  - hash:
+      serializedVersion: 2
+      Hash: e301e767c03eea8209c5634411866fd9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: BVHExMecanim
+  - hash:
+      serializedVersion: 2
+      Hash: 08dc817ffa9ea8f56db4a7abd88fd14c
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: InteractionObject
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: db611b54dd95c6a50f62d2c8ed9b838d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: MechSpider
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b8a5e8091ab0b8861d2add371082c5e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 1e14977dab694bfa2c108bc988128fa8
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: GrounderBipedIK
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: ad9fcd104a7dc00ddaae42b5e2292085
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: ResetInteractionObject
+  - hash:
+      serializedVersion: 2
+      Hash: 903b7f359fa0971cd8d89415092b860b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: SimpleAimingSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 3149e68b62b82493254e1c995849f227
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: GrounderDemo
+  - hash:
+      serializedVersion: 2
+      Hash: 9bed2a105f62cc0419688025a774d63e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Trans
+  - hash:
+      serializedVersion: 2
+      Hash: f44c236f594fba7f5b1ad375f23ea9d3
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion
+    className: HumanoidBaker
+  - hash:
+      serializedVersion: 2
+      Hash: 8dd97b7e07915c183f8454a86716d325
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: 23b8cfaf4c6677b71aa2b7f006c32a68
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: MechSpiderController
+  - hash:
+      serializedVersion: 2
+      Hash: 85045a1c02a413b343339373cf8e5d0b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: IdleChanger
+  - hash:
+      serializedVersion: 2
+      Hash: 7e79d24284edea24a71fe4ffe78cb88f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithFinalIK
+  - hash:
+      serializedVersion: 2
+      Hash: fb1c8895824f2b5d9232fddc94f9bf59
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: VRIKPlatform
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: Exodrifter.UnityPython.Examples
+    className: PythonUnityHelloWorld
+  - hash:
+      serializedVersion: 2
+      Hash: b3ab2106268377ffe25dd18ac23dca28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: dec38e8c0473fb4fec0ed35c638b5a5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: SpringManager
+  - hash:
+      serializedVersion: 2
+      Hash: af7ca6d14c3e02fb3864c21d01a73d48
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: FKOffset
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: f3714cede8f3324a9f257ee79e1e1d50
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: VRIKPlatformController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: VRIKRootController
+  - hash:
+      serializedVersion: 2
+      Hash: faf7308ab2e1d16882054607eb8ebff2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: LookAtController
+  - hash:
+      serializedVersion: 2
+      Hash: c05f0f756fd12d0f804c0ce61520e765
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: SimpleLocomotion
+  - hash:
+      serializedVersion: 2
+      Hash: 4f5574efae39a34180343ae838df5704
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: FBBIKSettings
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 73d61f64337ddeb75504d346bf72d9fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithPoses1
+  - hash:
+      serializedVersion: 2
+      Hash: a282d0e7a99be0ad3155bf9ee760446b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion
+    className: SolverManager
+  - hash:
+      serializedVersion: 2
+      Hash: 0e34024813b298d8a4afe283e5b9ee2a
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: Amplifier
+  - hash:
+      serializedVersion: 2
+      Hash: 3bee2395426404357b101dd55c61cd87
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: InteractionTarget
+  - hash:
+      serializedVersion: 2
+      Hash: a17530eccbeaddd301bb125543f9c8f3
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: RagdollUtility
+  - hash:
+      serializedVersion: 2
+      Hash: e301e767c03eea8209c5634411866fd9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: BVHBase
+  - hash:
+      serializedVersion: 2
+      Hash: 4f9ff47bc7d97e77f26bee2787f0e08d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: ExplosionDemo
+  - hash:
+      serializedVersion: 2
+      Hash: 6a4e16cda24af675c0d55ab4a54ab421
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: CharacterThirdPerson
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: b420dbe4068e4a3d3d1020fbcff7fe44
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: MechSpiderParticles
+  - hash:
+      serializedVersion: 2
+      Hash: b14ad0bf014599a5b868292d27195cea
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithPoses6
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithJoints
+  - hash:
+      serializedVersion: 2
+      Hash: d61c7ccc637ab4387b08e7bc7e335203
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: BodyTilt
+  - hash:
+      serializedVersion: 2
+      Hash: 605bd17ba84a0a4d4e2212228b229f5d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: HitReaction
+  - hash:
+      serializedVersion: 2
+      Hash: 53de819b6032b8e77717fff69bb4579a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Father
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: dafe0d9a003f35cffc48c2feaeac7b74
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: RotationLimitAngle
+  - hash:
+      serializedVersion: 2
+      Hash: 6ab7e783ca5eb16ba5a0ce28d8992a57
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShowText
+  - hash:
+      serializedVersion: 2
+      Hash: 9b9589f6602eed47f6b6be4c008e13fa
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: FPSAiming
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: mqttTest
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: edae56477c949cbae507dbd2cc40829c
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: InteractionTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 66bca5cc6a18c5298ec75235e56a84d6
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion
+    className: TriggerEventBroadcaster
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 9aefe490fb3ebc4b4adaf0bfb58366fd
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: CharacterAnimationThirdPersonIK
+  - hash:
+      serializedVersion: 2
+      Hash: 73d61f64337ddeb75504d346bf72d9fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithPoses
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: SplashScreen
+  - hash:
+      serializedVersion: 2
+      Hash: df92be8afbb77170e7d53a2979e6f36e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: FABRIKRoot
+  - hash:
+      serializedVersion: 2
+      Hash: 24d0b629b9919f033e9387c78ad025a5
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: FingerRig
+  - hash:
+      serializedVersion: 2
+      Hash: 0270c83f76ec2a12e20ff3527e42277e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: Inertia
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 0c585c36b8abe687e6ca2c90f2962383
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: AimIK
+  - hash:
+      serializedVersion: 2
+      Hash: bf4698a3b70ae92d7166ab31c3de7991
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: SpringCollider
+  - hash:
+      serializedVersion: 2
+      Hash: 6b466c7803123815ed74ff3d45a6dc5e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: Recoil
+  - hash:
+      serializedVersion: 2
+      Hash: 349a29f631977e0d310d8cd655eacad4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: ThirdPersonCamera
+  - hash:
+      serializedVersion: 2
+      Hash: e6140d36bc734c43f26474ee29a93ece
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: MechSpiderLeg
+  - hash:
+      serializedVersion: 2
+      Hash: 8e082333b46241882b4698f1bd3db987
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: BipedIKvsAnimatorIK
+  - hash:
+      serializedVersion: 2
+      Hash: 91ae5a62e8852a581022af2d4d1d4186
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: CCDIK
+  - hash:
+      serializedVersion: 2
+      Hash: 5f7d3b561fe1cc8eb27fa9146892bd71
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: CharacterController3rdPerson
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: b46af7a2a0d10d395ec9d328f2ac3748
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: FBIKBendGoal
+  - hash:
+      serializedVersion: 2
+      Hash: ea8cd4c9f674a04c7ced17ed38a11567
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: BendGoal
+  - hash:
+      serializedVersion: 2
+      Hash: 25f9f965ff36d0ff1dad1392baf4b54b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: FBIKBoxing
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 35a9693c388776aaf487636491a20f11
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: e1300922cc039f41ab46a47f4cb05898
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 76092beff9bf0be94b025db8c9c4ac8e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: HoldingHands
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 986908aa5db8a87bbc598dc9e90157db
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: OffsetEffector
+  - hash:
+      serializedVersion: 2
+      Hash: 4af2af26054af48a0ae27f849dad4970
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion
+    className: DemoGUIMessage
+  - hash:
+      serializedVersion: 2
+      Hash: c038cfb17ea936f949bd4b48e54b0dfa
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: LookAtIK
+  - hash:
+      serializedVersion: 2
+      Hash: 874323d52801def2b7fbcddc187e6735
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: TerrainOffset
+  - hash:
+      serializedVersion: 2
+      Hash: f81cc753f51f0c37ec61581b82c83809
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: AimBoxing
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: cc3dd03deddc00eedeb378b5eb48c881
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: RotationLimitSpline
+  - hash:
+      serializedVersion: 2
+      Hash: b7cebf79fe00fb35f5825c8c0b600a5e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: AnimationWarping
+  - hash:
+      serializedVersion: 2
+      Hash: 1c0bec7c2a59c5528fc70c5a239ee8f5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3DWithPoses5
+  - hash:
+      serializedVersion: 2
+      Hash: 74726564ab1af6d59603ba989dd5d68c
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: RotationLimitPolygonal
+  - hash:
+      serializedVersion: 2
+      Hash: bb311d95e19c6b4453f82be4d8215f7a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: IKCtrlRightHand
+  - hash:
+      serializedVersion: 2
+      Hash: 366194d546e0bc12e209a50c7dffe1b3
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: FABRIK
+  - hash:
+      serializedVersion: 2
+      Hash: 4a49cd9467114e28251bafc43f0b4eb4
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: UserControlInteractions
+  - hash:
+      serializedVersion: 2
+      Hash: 594aa02a766278b3a32cd172236f93dd
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: BipedIK
+  - hash:
+      serializedVersion: 2
+      Hash: cde45b7ba26ada6ede4a9814a79b6462
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: TwoHandedProp
+  - hash:
+      serializedVersion: 2
+      Hash: 8001a5f7502aab37e42206da015e6914
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 345b8a44afda348439c5c3f872756e31
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: HitReactionVRIK
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 34fd5f9e78d453beca6de579d730c46a
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: FullBodyBipedIK
+  - hash:
+      serializedVersion: 2
+      Hash: 8e95053ab0711b8dafcadc28125e84b3
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: JustWithJoints.Avatars
+    className: AliciaAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: EditorIK
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: KalmanTest
+  - hash:
+      serializedVersion: 2
+      Hash: 4bcdd832e4afb1ce3275d66c958db219
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: RagdollUtilityDemo
+  - hash:
+      serializedVersion: 2
+      Hash: de206539195c9cf98f693b03abe3cb79
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: FPSCharacter
+  - hash:
+      serializedVersion: 2
+      Hash: 3dc44c953ab9d215475cf1110128ed13
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: InteractionSystem
+  - hash:
+      serializedVersion: 2
+      Hash: ec7fbc8b73e0251ad2b4681525d86c11
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: SecondHandOnGun
+  - hash:
+      serializedVersion: 2
+      Hash: f0f92c46418c09ad61c2221c3b65f613
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: OffsetPose
+  - hash:
+      serializedVersion: 2
+      Hash: d8fa56c444095472df2811298594dbb3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: FaceUpdate
+  - hash:
+      serializedVersion: 2
+      Hash: 9aefe490fb3ebc4b4adaf0bfb58366fd
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: CharacterAnimationThirdPerson
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: Exodrifter.UnityPython.Examples
+    className: PythonLibrary
+  - hash:
+      serializedVersion: 2
+      Hash: 2d9278a089ab00f34f77ccb7e2f7a0c8
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: FBBIKArmBending
+  - hash:
+      serializedVersion: 2
+      Hash: 5db9b7ffd679e5ea8e000a80206c6b01
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: TransferMotion
+  - hash:
+      serializedVersion: 2
+      Hash: 3f949c49b5ce67202d0fc54ec3641060
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: AimSwing
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: d0e5139fb2593ffc620d585df8fa2ae9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: SpringBone
+  - hash:
+      serializedVersion: 2
+      Hash: 0893251d6625603bb3f2b43143f343f2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion
+    className: CameraController
+  - hash:
+      serializedVersion: 2
+      Hash: 06c88778eae5d73977708a880634cd1f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: RandomWind
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 9a60482210b996d1e7db7dd1adf1c554
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityChan
+    className: UnityChanControlScriptWithRgidBody
+  - hash:
+      serializedVersion: 2
+      Hash: 78a6eccb2b3b4d76797619b87abc3d23
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: LegIK
+  - hash:
+      serializedVersion: 2
+      Hash: 9c1b93beeace9e0143c7495c06b318c2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: PlatformRotator
+  - hash:
+      serializedVersion: 2
+      Hash: 036dc8400f6d95a8197e30c87a95f532
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar2D
+  - hash:
+      serializedVersion: 2
+      Hash: 5fbad81cc475bdea3b91433f8ab5de71
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: MotionAbsorb
+  - hash:
+      serializedVersion: 2
+      Hash: 1a9a6d3ba06178e93d92ad5ac466cc99
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: VRIKLODController
+  - hash:
+      serializedVersion: 2
+      Hash: e301e767c03eea8209c5634411866fd9
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: 
+    className: BVHExAll
+  - hash:
+      serializedVersion: 2
+      Hash: 2ea4b37728bfb00c2ac9a5604bd8b083
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: JustWithJoints.Avatars
+    className: UnityChanAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: c4a272c24eb3c68ee47555985919ffcc
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: HitReactionVRIKTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 036dc8400f6d95a8197e30c87a95f532
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DriveAvatar3D
+  - hash:
+      serializedVersion: 2
+      Hash: 21d73eda81c18eacd2c91ad5dfaf2e32
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 2c52b2d5e63d0cad1cb33771139527b2
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: TrigonometricIK
+  - hash:
+      serializedVersion: 2
+      Hash: 910298634943784ccdafaadbab5c1678
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: GrounderQuadruped
+  - hash:
+      serializedVersion: 2
+      Hash: 7a2e785ba1599a407f1d9dc4e7112f1d
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: HitReactionTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: c5dc15ceea3adf10da485a41d79fc99b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: VRIKCalibrationController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: f69488f83cc8396fd05d14afaff9a68e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: RecoilTest
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 83370dd8ab650ff832b849be42fc91d8
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: EffectorOffset
+  - hash:
+      serializedVersion: 2
+      Hash: ebe2aaf619768d10ff7e29a51dc9ce9b
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: PenetrationAvoidance
+  - hash:
+      serializedVersion: 2
+      Hash: 4cb66e4c5a40604a9cc1da83340b88c1
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: KissingRig
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: a32a0383b35e580bf5b12a3f4d724eef
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion
+    className: GenericBaker
+  - hash:
+      serializedVersion: 2
+      Hash: 81a1a87d26f6c88a568b25475664bb58
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SetDataToFullBodyBipedIK
+  - hash:
+      serializedVersion: 2
+      Hash: 621dd1c0122877a3f3f8cdb88deb03c0
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: UserControlThirdPerson
+  - hash:
+      serializedVersion: 2
+      Hash: 0d23aa4addc7dfd3c3b299f35e287ddf
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: AimPoser
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShowHumanSkeletons
+  - hash:
+      serializedVersion: 2
+      Hash: 9726bc46e15d44429bd38fb013657f1e
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: Exodrifter.UnityPython.Examples
+    className: PythonHelloWorld
+  - hash:
+      serializedVersion: 2
+      Hash: f6ec620bab809df1a489a1b8c0cf1c13
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: InteractionSystemTestGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 7688afcce6aca2acc22eb54b824885ac
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion
+    className: CameraControllerFPS
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 29a60a87f1d7ef46732c0a5a9eed5e55
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: PickUpSphere
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: e487c3cf4c71d6994c22f2ca726883fb
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: GrounderFBBIK
+  - hash:
+      serializedVersion: 2
+      Hash: 8144d0f72a360ac8b98ea2d55392edae
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.Demos
+    className: Turret
+  - hash:
+      serializedVersion: 2
+      Hash: de093d0bd5f588edf70f06e34d89db97
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: JustWithJoints
+    className: CMUMotionPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: 4c9377e066115c36141c46669e98898e
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: JustWithJoints.Avatars
+    className: UnityChanAvatar
+  - hash:
+      serializedVersion: 2
+      Hash: 99d46df03542455be996f7f7e95948fe
+    assemblyName: Assembly-CSharp-firstpass.dll
+    namespaceName: RootMotion.FinalIK
+    className: ShoulderRotator
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AvatarGameStart
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AvatarGameEnd
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AvatarGamePlay
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InputInfos
+  platform: 24
+  scenePathNames:
+  - Assets/Scenes/AvatarGameStartScene.unity
+  - Assets/Scenes/AvatarGamePlayScene.unity
+  - Assets/Scenes/AvatarGameEndScene.unity
+  playerPath: /home/pacific/Documents/Work/Projects/Workflows/server/UnityProjects/Pacific_AvatarGame_Unity.Run/Pacific_AvatarGame_Unity.x86_64
