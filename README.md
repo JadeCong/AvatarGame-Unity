@@ -21,3 +21,7 @@
 >- Test
 
 ---
+
+## Star History Graph
+
+[![Star History Chart](https://api.star-history.com/svg?repos=JadeCong/AvatarGame-Unity&type=Date&theme=dark)](https://star-history.com/#JadeCong/AvatarGame-Unity&Date&theme=dark)
